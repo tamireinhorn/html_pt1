@@ -1,3 +1,11 @@
+.principal{
+    background: grey;
+    padding: 30px;
+}
 p {
     text-align: center;
+}
+.item {
+    
+    font-style: italic;
 }
